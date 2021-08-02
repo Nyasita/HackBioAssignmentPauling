@@ -36,3 +36,13 @@ At the end of the internship, successful interns should have:
 With that said check out our awesome contributors below.:smiley:
 
 # Contributors
+1.    Laurah Nyasita Ondari
+
+![]( _nyasita_162791934038138.jpg)
+
+MSc. Bioinformatics, Pwani University, Kenya
+
+I am passionate about programming, bioinformatics, and diagnostics.
+
+:speech_balloon: Connect with me on [LinkedIn](https://www.linkedin.com/in/laurah-ondari-749175b6/)
+
