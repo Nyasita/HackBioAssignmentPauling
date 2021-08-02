@@ -61,3 +61,12 @@ MSc. Bioinformatics, Pwani University, Kenya
 I have an interest in bioinformatics, programming and genomics
 
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/clement-mlay-5821a6134/)
+
+
+### 4. Chinaza Nwanya 
+BSc. Biochemistry, University of Lagos 
+
+I'm interested in learning more about bioinformatics and I'm also available for networking.
+
+:link: Connect with me on [LinkedIn](https://www.linkedin.com/in/chinaza-nwanya-5261a6161/)
+
