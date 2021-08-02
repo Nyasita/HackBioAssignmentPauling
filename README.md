@@ -60,4 +60,4 @@ MSc. Bioinformatics, Pwani University, Kenya
 
 I have an interest in bioinformatics, programming and genomics
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/clement-mlay-5821a6134/)
+:link: Connect with me on [LinkedIn](https://www.linkedin.com/in/clement-mlay-5821a6134/)
