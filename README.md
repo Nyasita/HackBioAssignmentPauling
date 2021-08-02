@@ -46,3 +46,11 @@ I am passionate about programming, bioinformatics, and diagnostics.
 
 :speech_balloon: Connect with me on [LinkedIn](https://www.linkedin.com/in/laurah-ondari-749175b6/)
 
+
+2. Suliat Abike Jimoh
+
+ BSc. Biochemistry, Kwara State University, Nigeria
+
+I'm interested in learning more about bioinformatics, also available for networking.
+
+Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/suliat-abike-jimoh-362b0384/)
