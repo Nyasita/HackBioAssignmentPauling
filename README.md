@@ -30,7 +30,7 @@ At the end of the internship, successful interns should have:
 +	data analytics 
 +	software development 
 +	science communication 
-•	publication image design 
-•	bioinformatics frontend/UI/UX
++	publication image design 
++	bioinformatics frontend/UI/UX
 
 # With that said check out our awesome contributors below.
