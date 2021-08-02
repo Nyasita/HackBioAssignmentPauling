@@ -52,3 +52,12 @@ BSc. Biochemistry, Kwara State University, Nigeria
 I'm interested in learning more about bioinformatics, also available for networking.
 
 Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/suliat-abike-jimoh-362b0384/)
+
+
+### 3.    Clement Dastan Mlay
+
+MSc. Bioinformatics, Pwani University, Kenya
+
+I have an interest in bioinformatics, programming and genomics
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/clement-mlay-5821a6134/)
