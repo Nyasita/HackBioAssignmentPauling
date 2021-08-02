@@ -33,4 +33,6 @@ At the end of the internship, successful interns should have:
 +	publication image design 
 +	bioinformatics frontend/UI/UX
 
-# With that said check out our awesome contributors below.
+With that said check out our awesome contributors below.:smiley:
+
+# Contributors
