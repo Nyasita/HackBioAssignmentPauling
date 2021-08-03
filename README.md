@@ -99,6 +99,8 @@ Msc. Bioinformatics Pwani university, Kenya
 I am interested in Proteomics,phylogenetics and NGS data analysis
 
 welcome to connect with me [linkedin] (https://www.linkedin.com/in/hesborn-omwandho-354541100/)
+![IMG-20210415-WA0000](https://user-images.githubusercontent.com/72735085/127998372-91e8963c-b233-4f5b-9bcc-5e6b21733d10.jpg)
+
 
 ### 8. Pauline King'ori
 
