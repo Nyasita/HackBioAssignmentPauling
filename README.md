@@ -100,4 +100,14 @@ I am interested in Proteomics,phylogenetics and NGS data analysis
 
 welcome to connect with me [linkedin] (https://www.linkedin.com/in/hesborn-omwandho-354541100/)
 
+### 8. Pauline King'ori
+
+MSc. Bioinformatics student at Pwani University, Kenya.
+
+I have a keen interest in Genomic Epidemiology and Biostatistics.
+
+[Twitter](https://twitter.com/paulah_kings)
+
+![github profile](https://user-images.githubusercontent.com/61578503/127986353-6080c57c-f57c-4498-9a54-05f262da6dda.jpg)
+
 
