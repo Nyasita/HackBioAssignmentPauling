@@ -130,3 +130,10 @@ BSc. Microbiology, University of Lagos, Nigeria.
 
 I'm interested in data analytics, software development and genomics.
 Get to know me via [LinkedIn](https://www.linkedin.com/in/oluwadara-adepoju-279985162)
+
+### 11. Elishama Yomi-Agbajor 
+MSc. student (Environmental Management) at Federal University of Agriculture Abeokuta, Nigeria.
+
+I'm interested in data analytics and genome epidemiology.
+Connect with me via [LinkedIn](https://www.linkedin.com/in/elishama-yomi-agbajor-308096102/)
+![IMG_20191209_124231](https://user-images.githubusercontent.com/88346095/128010673-a4dfae91-b9fa-473a-b75f-95422dd95ed7.jpg)
