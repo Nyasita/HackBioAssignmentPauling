@@ -85,7 +85,9 @@ welcome to connect with me [LinkedIn](https://www.linkedin.com/in/brenda-muthoni
 ### 6. Ruth Moraa
 
 MSc.Bioinformatics Pwani University , Kenya
+
 My interests are in Genomics and Data analysis
+
 Connect with me on Linked in https://www.linkedin.com/in/ruth-moraa-85707812a/
 
 
