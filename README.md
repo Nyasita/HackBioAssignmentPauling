@@ -1,4 +1,4 @@
-![_nyasita_162791934038138](https://user-images.githubusercontent.com/72727098/127984473-b783147f-0267-40e8-a9cc-f8fda742efbb.jpg)
+
 # HackBioPauling
 
 ## Hello Everyone,
@@ -44,7 +44,7 @@ MSc. Bioinformatics, Pwani University, Kenya
 I am passionate about programming, bioinformatics, and diagnostics.
 
 :speech_balloon: Connect with me on [LinkedIn](https://www.linkedin.com/in/laurah-ondari-749175b6/)
-
+![_nyasita_162791934038138](https://user-images.githubusercontent.com/72727098/127984473-b783147f-0267-40e8-a9cc-f8fda742efbb.jpg)
 
 ### 2. Suliat Abike Jimoh
 
