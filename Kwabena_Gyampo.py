@@ -1,11 +1,14 @@
 # Name: First and Last
-print('Name: Kwabena Gyampo')
+name = 'Kwabena Gyampo'
 
 # Email
-print('Email: dentukwabena.kg@gmail.com')
+email = 'dentukwabena.kg@gmail.com'
 
 # Slack Username
-print('Slack Username: @Kwabs')
+slack_username = '@Kwabs'
 
 # Biostack
-print('Biostack: Genomics')
+biostack = 'Genomics'
+
+print(f'Name: {name} \nEmail: {email} \
+    \nSlack Username: {slack_username} \nBiostack: {biostack}')
