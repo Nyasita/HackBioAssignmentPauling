@@ -1,4 +1,4 @@
-![b43038cf-3d06-48ba-9273-6855feffac6f](https://user-images.githubusercontent.com/72735149/128007710-543e3868-0fb4-448a-9391-97a46737f42b.jpg)
+
 
 # HackBioPauling
 
@@ -63,6 +63,9 @@ MSc. Bioinformatics, Pwani University, Kenya
 I have an interest in bioinformatics, programming and genomics
 
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/clement-mlay-5821a6134/)
+
+![b43038cf-3d06-48ba-9273-6855feffac6f](https://user-images.githubusercontent.com/72735149/128007906-a04b0e01-d39b-4b27-90ba-f3c7ec0853dd.jpg)
+
 
 
 ### 4. Chinaza Nwanya 
