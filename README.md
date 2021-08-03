@@ -95,8 +95,8 @@ Connect with me on Linked in https://www.linkedin.com/in/ruth-moraa-85707812a/
 
 Msc. Bioinformatics Pwani university, Kenya
 
-I am interested in Genomics ,phylogenetics and NGS data analysis
+I am interested in Proteomics,phylogenetics and NGS data analysis
 
-welcome to connect with me  https://www.linkedin.com/in/hesborn-omwandho-354541100/
+welcome to connect with me [linkedin] (https://www.linkedin.com/in/hesborn-omwandho-354541100/)
 
 
