@@ -70,3 +70,14 @@ I'm interested in learning more about bioinformatics and I'm also available for 
 
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/chinaza-nwanya-5261a6161/)
 
+
+### 5. Brenda Muthoni 
+
+Msc. Bioinfomatics Pwani university, Kenya
+
+I am interested in Genomics and NGS data anaysis
+
+welcome to connect with me in Linked In [LinkedIn](https://www.linkedin.com/in/brenda-muthoni-9390b6a6/)
+
+![Brenda](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FBrenda%2FMuthoni&psig=AOvVaw3V48Wol7ilXucYtj1nlgh3&ust=1628048619264000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj_o_P3k_ICFQAAAAAdAAAAABAD)
+
