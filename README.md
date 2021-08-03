@@ -135,5 +135,7 @@ Get to know me via [LinkedIn](https://www.linkedin.com/in/oluwadara-adepoju-2799
 MSc. student (Environmental Management) at Federal University of Agriculture Abeokuta, Nigeria.
 
 I'm interested in data analytics and genome epidemiology.
+
 Connect with me via [LinkedIn](https://www.linkedin.com/in/elishama-yomi-agbajor-308096102/)
+
 ![IMG_20191209_124231](https://user-images.githubusercontent.com/88346095/128010673-a4dfae91-b9fa-473a-b75f-95422dd95ed7.jpg)
