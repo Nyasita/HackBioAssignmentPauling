@@ -1,6 +1,6 @@
 
 
-# HackBioPauling
+ ![logo](https://user-images.githubusercontent.com/70781289/128011796-f760095a-6e32-43d7-a9a3-0f0baaafc536.png)# HackBioPauling
 
 ## Hello Everyone,
 **Welcome to #Pauling!** :smile:
