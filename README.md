@@ -54,6 +54,7 @@ BSc. Biochemistry, Kwara State University, Nigeria
 I'm interested in learning more about bioinformatics, also available for networking.
 
 Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/suliat-abike-jimoh-362b0384/)
+![alt text](https://github.com/SuliJimoh/images/blob/main/suliat.jpg)
 
 
 ### 3.    Clement Dastan Mlay
