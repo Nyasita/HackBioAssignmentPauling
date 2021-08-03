@@ -145,3 +145,14 @@ I'm interested in data analytics and genome epidemiology.
 Connect with me via [LinkedIn](https://www.linkedin.com/in/elishama-yomi-agbajor-308096102/)
 
 ![IMG_20191209_124231](https://user-images.githubusercontent.com/88346095/128010673-a4dfae91-b9fa-473a-b75f-95422dd95ed7.jpg)
+
+
+### 12. Kwabena Dentu Gyampo
+
+Bsc. Computer Engineering, Kwame Nkrumah University of Science and Technology, Ghana.
+
+I am an enthusiast in Bioinformatics, Machine Learning, Genomics and Programming.
+
+:link: Connect with me via [LinkedIn](https://www.linkedin.com/in/kwabena-gyampo-30229312a/)
+
+!![00100s_BURST_COVER](https://user-images.githubusercontent.com/39109447/128029070-e179b939-d34f-4daa-aa5b-26ce27b2687c.jpg)
