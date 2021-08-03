@@ -87,3 +87,8 @@ welcome to connect with me [LinkedIn](https://www.linkedin.com/in/brenda-muthoni
 MSc.Bioinformatics Pwani University , Kenya
 My interests are in Genomics and Data analysis
 Connect with me on Linked in https://www.linkedin.com/in/ruth-moraa-85707812a/
+
+### 7. Pauline King'ori
+MSc. Bioinformatics, Pwani University, Kenya
+I have a keen interest in Genomic Epidemiology
+Connect with me on Twitter: https://twitter.com/paulah_kings
