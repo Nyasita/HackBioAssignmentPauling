@@ -110,4 +110,12 @@ I have a keen interest in Genomic Epidemiology and Biostatistics.
 
 ![github profile](https://user-images.githubusercontent.com/61578503/127986353-6080c57c-f57c-4498-9a54-05f262da6dda.jpg)
 
+### 9. Chiemela Chinedum
 
+BSc. Biochemistry, University of Ilorin, Nigeria
+
+I am interested in data analytics and Bioinformatics. I am also available for networking.
+
+Connect with me on [LinkedIn] (https://www.linkedin.com/in/chiemela-chinedum-6550391b0/)
+
+![00100srPORTRAIT_00100_BURST20200509141702940_COVER](https://user-images.githubusercontent.com/85451313/127993593-3e4e2e48-de75-43ea-9863-113699bed1c5.jpg)
