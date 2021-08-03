@@ -125,11 +125,17 @@ I am interested in data analytics and Bioinformatics. I am also available for ne
 Connect with me on [LinkedIn] (https://www.linkedin.com/in/chiemela-chinedum-6550391b0/)
 
 ![00100srPORTRAIT_00100_BURST20200509141702940_COVER](https://user-images.githubusercontent.com/85451313/127993593-3e4e2e48-de75-43ea-9863-113699bed1c5.jpg)
+
+
 ### 10. Oluwadara Adepoju 
+
 BSc. Microbiology, University of Lagos, Nigeria.
 
 I'm interested in data analytics, software development and genomics.
+
 Get to know me via [LinkedIn](https://www.linkedin.com/in/oluwadara-adepoju-279985162)
+
+![20210803_133145](https://user-images.githubusercontent.com/70781289/128018810-68b42f7b-e36b-4876-9e6a-ce149e5d7af7.jpg)
 
 ### 11. Elishama Yomi-Agbajor 
 MSc. student (Environmental Management) at Federal University of Agriculture Abeokuta, Nigeria.
