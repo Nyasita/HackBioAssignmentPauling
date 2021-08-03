@@ -1,6 +1,7 @@
 
+![logo](https://user-images.githubusercontent.com/70781289/128011796-f760095a-6e32-43d7-a9a3-0f0baaafc536.png)  
 # HackBioPauling
-
+ 
 ## Hello Everyone,
 **Welcome to #Pauling!** :smile:
 This is a group of enthusiastic people awarded the #HackBio Internship and are deeply interested in programming and bioinformatics.
@@ -63,6 +64,9 @@ I have an interest in bioinformatics, programming and genomics
 
 :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/clement-mlay-5821a6134/)
 
+![b43038cf-3d06-48ba-9273-6855feffac6f](https://user-images.githubusercontent.com/72735149/128007906-a04b0e01-d39b-4b27-90ba-f3c7ec0853dd.jpg)
+
+
 
 ### 4. Chinaza Nwanya 
 BSc. Biochemistry, University of Lagos 
@@ -121,8 +125,23 @@ I am interested in data analytics and Bioinformatics. I am also available for ne
 Connect with me on [LinkedIn] (https://www.linkedin.com/in/chiemela-chinedum-6550391b0/)
 
 ![00100srPORTRAIT_00100_BURST20200509141702940_COVER](https://user-images.githubusercontent.com/85451313/127993593-3e4e2e48-de75-43ea-9863-113699bed1c5.jpg)
+
+
 ### 10. Oluwadara Adepoju 
+
 BSc. Microbiology, University of Lagos, Nigeria.
 
 I'm interested in data analytics, software development and genomics.
+
 Get to know me via [LinkedIn](https://www.linkedin.com/in/oluwadara-adepoju-279985162)
+
+![20210803_133145](https://user-images.githubusercontent.com/70781289/128018810-68b42f7b-e36b-4876-9e6a-ce149e5d7af7.jpg)
+
+### 11. Elishama Yomi-Agbajor 
+MSc. student (Environmental Management) at Federal University of Agriculture Abeokuta, Nigeria.
+
+I'm interested in data analytics and genome epidemiology.
+
+Connect with me via [LinkedIn](https://www.linkedin.com/in/elishama-yomi-agbajor-308096102/)
+
+![IMG_20191209_124231](https://user-images.githubusercontent.com/88346095/128010673-a4dfae91-b9fa-473a-b75f-95422dd95ed7.jpg)
