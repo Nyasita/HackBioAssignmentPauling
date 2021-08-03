@@ -80,3 +80,10 @@ I am interested in Genomics and NGS data anaysis
 welcome to connect with me [LinkedIn](https://www.linkedin.com/in/brenda-muthoni-9390b6a6/)
 
 ![ ](https://user-images.githubusercontent.com/67633694/127954727-6eae2722-39d5-4c93-b5b1-fbce7b5fa77e.jpg)
+
+
+### 6. Ruth Moraa
+
+MSc.Bioinformatics Pwani University , Kenya
+My interests are in Genomics and Data analysis
+Connect with me on Linked in https://www.linkedin.com/in/ruth-moraa-85707812a/
