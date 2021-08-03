@@ -88,3 +88,13 @@ MSc.Bioinformatics Pwani University , Kenya
 My interests are in Genomics and Data analysis
 Connect with me on Linked in https://www.linkedin.com/in/ruth-moraa-85707812a/
 
+
+### 7. Hesborn Omwandho
+
+Msc. Bioinformatics Pwani university, Kenya
+
+I am interested in Genomics ,phylogenetics and NGS data analysis
+
+welcome to connect with me  https://www.linkedin.com/in/hesborn-omwandho-354541100/
+
+
