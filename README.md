@@ -159,3 +159,14 @@ I am an enthusiast in Bioinformatics, Machine Learning, Genomics and Programming
 :link: Connect with me via [LinkedIn](https://www.linkedin.com/in/kwabena-gyampo-30229312a/)
 
 !![00100s_BURST_COVER](https://user-images.githubusercontent.com/39109447/128029070-e179b939-d34f-4daa-aa5b-26ce27b2687c.jpg)
+
+
+### 13. Pravitha Kasu Sivanandan
+
+Post-graduate in Bioinformatics, Associate Member at AACR, Student Fellow at IASLC.
+
+I'm a passionate researcher with a focus on bioinformatics, system biology, cancer biology, multi-omics data analysis.
+
+If you wish to contact me, kindly connect via Linkedin: https://www.linkedin.com/in/pravitha-k-sivanandan-7b2643165/
+
+![IMG_20210522_171135_255](https://user-images.githubusercontent.com/74097867/128237123-5209247a-c813-40c0-ae41-efe52ccd3352.jpg)
