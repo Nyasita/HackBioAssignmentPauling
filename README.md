@@ -172,8 +172,6 @@ If you wish to contact me, kindly connect via Linkedin: https://www.linkedin.com
 ![IMG_20210522_171135_255](https://user-images.githubusercontent.com/74097867/128237123-5209247a-c813-40c0-ae41-efe52ccd3352.jpg)
 
 
-![OYEFAVOUR](https://user-images.githubusercontent.com/46101497/128259086-923b80d3-40c6-4e86-b798-ab3a3ddb2c1d.jpg)
-
 ## 14.  Favour Oluwapelumi OYELAMI
 
 Medical Research Writer (Cancer Genomics)/ MSc graduate of Animal Science (Statistical Genomics and Bioinformatics) 
@@ -182,3 +180,4 @@ I am interested in delivering precision medicine for underrepresented population
 
 :link: Let's connect on [LinkedIn](https://www.linkedin.com/in/oyelami-favour-oluwapelumi-6b9397126) and [Twitter](https://twitter.com/OYEFAVOUR)
 
+![OYEFAVOUR](https://user-images.githubusercontent.com/46101497/128259086-923b80d3-40c6-4e86-b798-ab3a3ddb2c1d.jpg)
