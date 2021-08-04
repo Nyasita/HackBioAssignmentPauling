@@ -96,6 +96,8 @@ My interests are in Genomics and Data analysis
 
 Connect with me on Linked in https://www.linkedin.com/in/ruth-moraa-85707812a/
 
+![IMG_20210401_194113_2](https://user-images.githubusercontent.com/72728233/128223088-345d980b-5954-4b3e-add6-10aeee690eab.jpg)
+
 
 ### 7. Hesborn Omwandho
 
