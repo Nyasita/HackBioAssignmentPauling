@@ -1,7 +1,9 @@
-print("My name is Hesborn obura")
-
-print ('My email address is hesbornomwandho@gmail.com')
-
-print ("My slack name is @hesborn")
-
-print ("My biostack of choice is Vaccine developmemt")
+Name = "Hesborn Omwandho"
+Email = "hesbornomwandho@gmail.com"
+Slack_username = "@hesborn,"
+Biostack = "vaccine informatics"
+print ("My name is ",Name,",", 
+       "My email adress is ",Email,",",
+       "My slack username is ",Slack_username,",",
+       "My biostack is
+       ",Biostack)
