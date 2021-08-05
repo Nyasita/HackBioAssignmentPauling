@@ -1,6 +1,8 @@
-print (''' 
-My name is Clement Mlay,
-My email adress is: mlay.clement@gmail.com,
-My slack username is: @Clementmlay,
-And my biostack is 'genomics.
-''')
+name = "Clement Mlay"
+email = "mlay.clement@gmail.com"
+slack = "@Clementmlay,"
+biostack = "genomics"
+print ("My name is: ",name,".", 
+       "My email adress is: ",email,".",
+       "My slack username is: ",slack,".",
+       "My biostack is: ",biostack)
