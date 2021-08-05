@@ -1,9 +1,9 @@
 
 name <- c("Marion Nyaboke")
-name
+print(name)
 email <- c("marionnyaboke01@gmail.com")
-email
+print(email)
 slack_username <- c("@Marion")
-slack_username
+print(slack_username)
 Biostack <- c("Genomics", "data analytics")
-Biostack
+print(Biostack)
