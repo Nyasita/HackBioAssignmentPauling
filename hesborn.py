@@ -10,23 +10,17 @@ Biostack = "vaccine informatics"
 
 print ("My name is ",Name,",", 
        "My email adress is ",Email,",",
-       "My slack username is ",Slack_username,",",
-       "My biostack is
-       ",Biostack)
+       "My slack username is ",Slack,",",
+       "My biostack is ",Biostack)
        
-from scipy.spartial.distance import hamming
-       
-def HammingDistance(Slack,Twitter):
-       i=0
-       count =0
-       while(i <len(slack)):
-        if (slack[i] !=Twitter[i]):
-              count += 1
-       return count
-       Slack = "@hesborn"
-       Twitter = "@hesbornomwandho"
-       
-       print (HammingDistance( Slack,twitter))
-       
-       
- 
+def HammingDistance(slack,twitter):
+    if len(slack) > len(twitter):
+        return(len(slack)- len(twitter))
+    elif len(twitter) > len(slack):
+        return(len(twitter)- len(slack))
+    else:
+        return("hamming distance is 0")
+   
+Slack = "@hesborn"
+Twitter = "@hesbornomwandho"
+print( HammingDistance(Slack,Twitter))
