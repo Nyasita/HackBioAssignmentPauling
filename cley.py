@@ -1,8 +1,14 @@
-name = "Clement Mlay"
-email = "mlay.clement@gmail.com"
-slack_username = "@Clementmlay,"
-biostack = "genomics"
-print ("My name is: ",name,".", 
-       "My email adress is: ",email,".",
-       "My slack username is: ",slack_username,".",
-       "My biostack is: ",biostack)
+# Name: First and Last
+name = 'Clement Mlay'
+
+# Email
+email = 'mlay.clement@gmail.com'
+
+# Slack Username
+slack_username = '@clementmlay'
+
+# Biostack
+biostack = 'Genomics'
+
+print(f'Name: {name} \nEmail: {email} \
+    \nSlack Username: {slack_username} \nBiostack: {biostack}')
