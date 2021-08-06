@@ -1,7 +1,19 @@
-print("My name is Brenda Muthoni")
+print(" Brenda Muthoni")
 
-print("The email adress is brendaksoni90@gmail.com")
+print("brendaksoni90@gmail.com")
 
-print("the slack name is @Brenda")
+print("slack: @Brenda")
 
-print("My biostack of choice is Genomics")
+print("biostack:Genomics")
+
+def HammingDistance(slack,twitter):
+  i = 0
+  count =0
+  while(i <len(slack)):
+    if(first[i] != twitter[i]):
+      count += 1
+    i += 1
+ rerurn count
+slack = "@Brenda"
+twitter = "@Brendaksoni"
+print( HammingDistance(slack,twitter))
