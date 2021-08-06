@@ -9,12 +9,14 @@ print("twitter: @Brendaksoni")
 print("biostack:Genomics")
 
 def HammingDistance(slack,twitter):
-    if len(slack) > len(twitter):
-        print(len(slack)- len(twitter))
-    elif len(twitter) > len(slack):
-        print(len(twitter)- len(slack))
+    slack = len(slack)
+    twitter =len(twitter)
+    if slack > twitter:
+        return (slack- twitter)
+    elif twitter > slack:
+        return (twitter- slack)
     else:
-        print("hamming distance is 0")
+        return (0)
     
 slack = "@Brenda"
 twitter = "@Brendaksoni"
