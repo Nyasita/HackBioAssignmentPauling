@@ -6,6 +6,8 @@ print("slack: @Brenda")
 
 print("biostack:Genomics")
 
+from scipy.spartial.distance import hamming
+
 def HammingDistance(slack,twitter):
   i = 0
   count =0
