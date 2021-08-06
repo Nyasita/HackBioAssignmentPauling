@@ -182,3 +182,16 @@ I am interested in delivering precision medicine for underrepresented population
 :link: Let's connect on [LinkedIn](https://www.linkedin.com/in/oyelami-favour-oluwapelumi-6b9397126) and [Twitter](https://twitter.com/OYEFAVOUR)
 
 ![OYEFAVOUR](https://user-images.githubusercontent.com/46101497/128259086-923b80d3-40c6-4e86-b798-ab3a3ddb2c1d.jpg)
+
+
+### 15. Marion Nyaboke
+
+Msc. Bioinformatics, Pwani University
+
+Interested in Bioinformatics, Genomics and Machine Learning
+
+Twitter:@marion_nyaboke
+Github:https://github.com/marionnyaboke
+
+![IMG_6785](https://user-images.githubusercontent.com/45264074/128524003-dc6ca0ab-ef5f-47ca-ae2d-08f685a87e4a.jpg)
+
