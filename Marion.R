@@ -1,9 +1,17 @@
 
+install.packages("stringdist")
+
+library(stringdist)
+
 name <- c("Marion Nyaboke")
-print(name)
 email <- c("marionnyaboke01@gmail.com")
-print(email)
-slack_username <- c("@Marion")
-print(slack_username)
-Biostack <- c("Genomics", "data analytics")
-print(Biostack)
+slack_username <- c("@marion")
+biostack <- c("data analytics")
+twitter <- c("@marion")
+
+
+hamming_distance <- stringdist("@marion", "@marion", method = 'hamming')
+hamming_distance
+
+
+cat(name,email,slack_username,biostack,twitter,hamming_distance)
