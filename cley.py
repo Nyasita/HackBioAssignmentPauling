@@ -8,27 +8,23 @@ email = 'mlay.clement@gmail.com'
 slack_username = '@clementmlay'
 
 # Twiter
-twiter = '@clement_mlay'
+twitter = '@clement_mlay'
 
 # Biostack
 biostack = 'Genomics'
 
 print(f'Name: {name} \nEmail: {email} \
-    \nSlack Username: {slack_username} \nBiostack: {biostack}')
+    \nSlack Username: {slack_username} \ntwitter Username: {twitter} \nBiostack: {biostack}')
 
 # Humming Distance
-from scipy.spartial.distance import hamming
-	
-	def HammingDistance(slack_username,twitter):
-	  i = 0
-	  count =0
-	  while(i <len(slack_username)):
-	    if(first[i] != twitter[i]):
-	      count += 1
-	    i += 1
-	 return count
-	slack = "@clementmlay"
-	twitter = "@clement_mlay"
-	print( HammingDistance(slack_username,twitter))
+def HammDist(slack_username,twitter):
+    a=slack_username
+    b=twitter
+    if len(a)>len(b):
+        print('Hamming Distance is:', len(a)-len(b))
+    elif len(b)>len(a):
+        print('Hamming Distance is:', len(b)-len(a))
+    else:
+        print('No Hamming Distance')
 	
 
