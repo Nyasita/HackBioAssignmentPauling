@@ -2,7 +2,7 @@ Name = "Hesborn Omwandho"
 
 Email = "hesbornomwandho@gmail.com"
 
-Slack = "@hesborn,"
+Slack = "@hesborn"
 
 Twitter = "@hesbornomwandho"
 
