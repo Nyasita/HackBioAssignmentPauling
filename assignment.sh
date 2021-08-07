@@ -91,7 +91,7 @@ assignment () {
         # Executing PHP file
         elif [[ $file =~ \.php ]]; then
             exe_perm="chmod 755 $file"
-            local result=$(cd "${curr_dir}/${trim_dir}" ; ./$file)
+            local result=$(cd "${curr_dir}/${trim_dir}" ;  php $file)
             IFS=$'\n'
             local result_array=( $result )
 
