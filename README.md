@@ -195,3 +195,13 @@ Github:https://github.com/marionnyaboke
 
 ![IMG_6785](https://user-images.githubusercontent.com/45264074/128524003-dc6ca0ab-ef5f-47ca-ae2d-08f685a87e4a.jpg)
 
+
+ ### 16. Aladodo Maryam
+ 
+   I’m a graduate of Microbiology from University of Ilorin. I am currently a MSc student at Bayero University Kano, Nigeria (Medical Microbiology (immunology)
+   
+you can connect with me on LinkedIn https://www.linkedin.com/in/maryam-aladodo-789869178
+![IMG_20210703_090820](https://user-images.githubusercontent.com/88408286/128609234-29debe73-82ff-4732-9b7a-e702cc853b40.jpg)
+
+
+
