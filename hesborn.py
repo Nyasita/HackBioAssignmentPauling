@@ -11,7 +11,8 @@ Biostack = "vaccine informatics"
 print ("My name is ",Name,",", 
        "My email adress is ",Email,",",
        "My slack username is ",Slack,",",
-       "My biostack is ",Biostack)
+       "My biostack is ",Biostack,",",
+       "My twitter handle is ", Twitter,",")
        
 def HammingDistance(slack,twitter):
     if len(slack) > len(twitter):
