@@ -15,5 +15,5 @@ def hammingDist(str1, str2):
 str1 = "@nana"
 str2 = "@aara"
 
-print(name, email_address, slack_username, biostack, twitter, hammingDist(slack_username, twitter))
+print(f'{name} \n{email_address} \n{slack_username} \n{biostack} \n{twitter} \n{hammingDist(slack_username, twitter)}')
 
