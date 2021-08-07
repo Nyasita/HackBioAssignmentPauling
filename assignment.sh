@@ -17,7 +17,7 @@ echo 'Cloning git repo...'
 repo="https://github.com/Nyasita/HackBioAssignmentPauling.git"
 
 # Git command to clone the group's repo
-# git clone $repo
+git clone $repo
 
 
 assignment () {
