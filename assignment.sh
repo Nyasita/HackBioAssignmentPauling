@@ -79,19 +79,27 @@ assignment () {
 
             printf '%s\n' ${result_array[@]} | paste -sd "," >> output.csv;
 
-        # Executing MatLab files
-        elif [[ $file =~ \.m ]]; then
-            matlab_cmd="matlab -nodisplay -nosplash -nodesktop -r 'run($file);exit;' | tail -n +11"
-            local result=$(cd "${curr_dir}/${trim_dir}" ; $matlab_cmd $file)
+        # Executing Bash Script files
+        elif [[ $file =~ \.sh ]]; then
+            exe_perm="chmod 755 $file"
+            local result=$(cd "${curr_dir}/${trim_dir}" ; ./$file)
+            IFS=$'\n'
+            local result_array=( $result )
+
+            printf '%s\n' ${result_array[@]} | paste -sd "," >> output.csv;
+        
+        # Executing PHP file
+        elif [[ $file =~ \.php ]]; then
+            exe_perm="chmod 755 $file"
+            local result=$(cd "${curr_dir}/${trim_dir}" ; ./$file)
             IFS=$'\n'
             local result_array=( $result )
 
             printf '%s\n' ${result_array[@]} | paste -sd "," >> output.csv;
 
-        # Executing Bash Script files
-        elif [[ $file =~ \.sh ]]; then
-            exe_perm="chmod 755 $file"
-            local result=$(cd "${curr_dir}/${trim_dir}" ; ./$file)
+        # Executing Perl file
+        elif [[ $file =~ \.pl ]]; then
+            local result=$(cd "${curr_dir}/${trim_dir}" ; perl $file)
             IFS=$'\n'
             local result_array=( $result )
 
