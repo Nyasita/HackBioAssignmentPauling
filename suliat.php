@@ -43,7 +43,7 @@ $biostack = "Genomics";
     // function call
 
 
-echo "$name, $mail, $slack_username, $biostack, $twitter, "; . hammingDist ($str1, $str2);
+echo "$name, $mail, $slack_username, $biostack, $twitter, " . hammingDist ($str1, $str2);
 
 ?>
 
