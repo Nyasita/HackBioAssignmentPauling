@@ -80,8 +80,8 @@ assignment () {
             printf '%s\n' ${result_array[@]} | paste -sd "," >> output.csv;
 
         # Executing Bash Script files
-        elif [[ $file =~ \.sh ]]; then
-            exe_perm="chmod 755 $file"
+        elif [[ $file =~ \.sh && !($file =~ "assignment.sh") ]]; then
+            $(chmod 755 "$file")
             local result=$(cd "${curr_dir}/${trim_dir}" ; ./$file)
             IFS=$'\n'
             local result_array=( $result )
