@@ -3,7 +3,7 @@ HackBio Firsttask
 print ("Pravitha KS")
 #Print mail ID
 print ("pravithaksivanandan@gmail.com")
-#print <slack_handle>@Team name
+#print <slack_handle>@
 print ("Pravithaks10277")
 #print Biostack
 print ("Drug development")
