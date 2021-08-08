@@ -3,8 +3,8 @@
 Name="Laurah Ondari"
 email_address="laurahondari@gmail.com"
 slack_username="@Laurah"
-twitter_handle="@_nyasita"
 biostack="Genomics"
+twitter_handle="@_nyasita"
 echo $Name
 echo $email_address
 echo $slack_username
