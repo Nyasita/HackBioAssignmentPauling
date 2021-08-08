@@ -31,13 +31,13 @@ name = 'Aladodo Maryam'
 email = 'aladodomaryam13@gmail.com'
 
 # Slack Username
-slack_username = '@Aladodo
+slack_username = '@Aladodo'
 
 # Biostack
 biostack = 'Drug development'
 
 # Twitter Handle
-twitter_handle = 'AladodoM
+twitter_handle = 'AladodoM'
 
 
 def hamming_distance(slack_handle, twitter_handle):
